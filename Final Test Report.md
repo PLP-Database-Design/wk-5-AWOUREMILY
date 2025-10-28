@@ -190,7 +190,9 @@ Improve documentation of environment setup and test data.
 | Horace Witaba| Test Executor | Done| 28/10/2025|
 
 ## Overall Summary
-
+- Working collaboratively through GitHub Issues streamlined bug tracking and communication between testers and developers. Peer review of risks improved the prioritization accuracy.
+- Time constraints limited exploratory testing on usability. Instead, structured tests were prioritized based on risk exposure.
+- High-risk areas (Leaderboard, Reset, Bonus Round) received the most test effort and were prioritized for early testing. This ensured that major gameplay and persistence issues were caught first.
 **Statement:** 
 
 **Test Status:** ✅ Completed / ☐ In Progress / ☐ Deferred
